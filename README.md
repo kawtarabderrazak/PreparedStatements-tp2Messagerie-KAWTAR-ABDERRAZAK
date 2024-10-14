@@ -16,5 +16,6 @@ La classe EmployeService permet de gérer les employés via les opérations CRUD
 
 Gestion des Messages
 La classe MessageService permet d'envoyer et de recevoir des messages entre les employés.
+https://github.com/user-attachments/assets/b364d307-5ec7-43fc-8a7e-46536cdd5332
 
  
